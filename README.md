@@ -3,7 +3,9 @@ The thing for file search.
 
 [prerequisits]
 Qt
+    add c:\Qt\6.5.3\msvc2019_64\bin\ to evn.var PATH
 VS2022
+
 
 [build]
 without presets
